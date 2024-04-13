@@ -10,7 +10,7 @@ intents.message_content = True
 intents.messages = True
 
 # Define o token do seu bot
-TOKEN = 'YOU_TOKEN_BOT'
+TOKEN = 'MTIyODc3NjYwOTMwNjI1MTM3NQ.GbArdR.dpUO0boH77f2BG0Ajmg07Fv5uP0st_YHfGfw3c'
 
 # Cria um objeto bot com o prefixo !
 bot = commands.Bot(command_prefix='!', intents=intents)
